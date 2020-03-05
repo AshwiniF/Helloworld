@@ -1,0 +1,243 @@
+----------------------------------------------------------------
+Sun Sep 22 11:06:15 IST 2019:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-016d-5778-70e1-00000cb71058 
+on database directory memory:C:\Users\Shri\Downloads\Student_App\testdb with class loader sun.misc.Launcher$AppClassLoader@73d16e93 
+Loaded from file:/C:/Users/Shri/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_211-b12
+user.dir=C:\Users\Shri\Downloads\Student_App
+os.name=Windows 7
+os.arch=amd64
+os.version=6.1
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sun Sep 22 11:09:17 IST 2019:
+Shutting down instance a816c00e-016d-5778-70e1-00000cb71058 on database directory memory:C:\Users\Shri\Downloads\Student_App\testdb with class loader sun.misc.Launcher$AppClassLoader@73d16e93 
+----------------------------------------------------------------
+Sun Sep 22 11:09:21 IST 2019:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 921800c1-016d-5778-70e1-00000cb71058 
+on database directory memory:C:\Users\Shri\Downloads\Student_App\testdb with class loader sun.misc.Launcher$AppClassLoader@73d16e93 
+Loaded from file:/C:/Users/Shri/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_211-b12
+user.dir=C:\Users\Shri\Downloads\Student_App
+os.name=Windows 7
+os.arch=amd64
+os.version=6.1
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sun Sep 22 11:14:19 IST 2019:
+Shutting down instance 921800c1-016d-5778-70e1-00000cb71058 on database directory memory:C:\Users\Shri\Downloads\Student_App\testdb with class loader sun.misc.Launcher$AppClassLoader@73d16e93 
+----------------------------------------------------------------
+Sun Sep 22 11:14:23 IST 2019:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance ac1dc176-016d-5778-70e1-00000cb71058 
+on database directory memory:C:\Users\Shri\Downloads\Student_App\testdb with class loader sun.misc.Launcher$AppClassLoader@73d16e93 
+Loaded from file:/C:/Users/Shri/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_211-b12
+user.dir=C:\Users\Shri\Downloads\Student_App
+os.name=Windows 7
+os.arch=amd64
+os.version=6.1
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sun Sep 22 11:15:12 IST 2019:
+Shutting down instance ac1dc176-016d-5778-70e1-00000cb71058 on database directory memory:C:\Users\Shri\Downloads\Student_App\testdb with class loader sun.misc.Launcher$AppClassLoader@73d16e93 
+----------------------------------------------------------------
+Sun Sep 22 11:15:15 IST 2019:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 950d0229-016d-5778-70e1-00000cb71058 
+on database directory memory:C:\Users\Shri\Downloads\Student_App\testdb with class loader sun.misc.Launcher$AppClassLoader@73d16e93 
+Loaded from file:/C:/Users/Shri/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_211-b12
+user.dir=C:\Users\Shri\Downloads\Student_App
+os.name=Windows 7
+os.arch=amd64
+os.version=6.1
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sun Sep 22 11:21:50 IST 2019:
+Shutting down instance 950d0229-016d-5778-70e1-00000cb71058 on database directory memory:C:\Users\Shri\Downloads\Student_App\testdb with class loader sun.misc.Launcher$AppClassLoader@73d16e93 
+----------------------------------------------------------------
+Sun Sep 22 11:21:54 IST 2019:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 2eb4c2de-016d-5778-70e1-00000cb71058 
+on database directory memory:C:\Users\Shri\Downloads\Student_App\testdb with class loader sun.misc.Launcher$AppClassLoader@73d16e93 
+Loaded from file:/C:/Users/Shri/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_211-b12
+user.dir=C:\Users\Shri\Downloads\Student_App
+os.name=Windows 7
+os.arch=amd64
+os.version=6.1
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sun Sep 22 11:22:20 IST 2019:
+Shutting down instance 2eb4c2de-016d-5778-70e1-00000cb71058 on database directory memory:C:\Users\Shri\Downloads\Student_App\testdb with class loader sun.misc.Launcher$AppClassLoader@73d16e93 
+----------------------------------------------------------------
+Sun Sep 22 11:22:23 IST 2019:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 16920391-016d-5778-70e1-00000cb71058 
+on database directory memory:C:\Users\Shri\Downloads\Student_App\testdb with class loader sun.misc.Launcher$AppClassLoader@73d16e93 
+Loaded from file:/C:/Users/Shri/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_211-b12
+user.dir=C:\Users\Shri\Downloads\Student_App
+os.name=Windows 7
+os.arch=amd64
+os.version=6.1
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sun Sep 22 11:23:11 IST 2019:
+Shutting down instance 16920391-016d-5778-70e1-00000cb71058 on database directory memory:C:\Users\Shri\Downloads\Student_App\testdb with class loader sun.misc.Launcher$AppClassLoader@73d16e93 
+----------------------------------------------------------------
+Sun Sep 22 11:23:14 IST 2019:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 1db98444-016d-5778-70e1-00000cb71058 
+on database directory memory:C:\Users\Shri\Downloads\Student_App\testdb with class loader sun.misc.Launcher$AppClassLoader@73d16e93 
+Loaded from file:/C:/Users/Shri/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_211-b12
+user.dir=C:\Users\Shri\Downloads\Student_App
+os.name=Windows 7
+os.arch=amd64
+os.version=6.1
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sun Sep 22 11:23:44 IST 2019:
+Shutting down instance 1db98444-016d-5778-70e1-00000cb71058 on database directory memory:C:\Users\Shri\Downloads\Student_App\testdb with class loader sun.misc.Launcher$AppClassLoader@73d16e93 
+----------------------------------------------------------------
+Sun Sep 22 11:23:47 IST 2019:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance f42b44f7-016d-5778-70e1-00000cb71058 
+on database directory memory:C:\Users\Shri\Downloads\Student_App\testdb with class loader sun.misc.Launcher$AppClassLoader@73d16e93 
+Loaded from file:/C:/Users/Shri/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_211-b12
+user.dir=C:\Users\Shri\Downloads\Student_App
+os.name=Windows 7
+os.arch=amd64
+os.version=6.1
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sun Sep 22 11:25:12 IST 2019:
+Shutting down instance f42b44f7-016d-5778-70e1-00000cb71058 on database directory memory:C:\Users\Shri\Downloads\Student_App\testdb with class loader sun.misc.Launcher$AppClassLoader@73d16e93 
+----------------------------------------------------------------
+Sun Sep 22 11:25:16 IST 2019:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 49e745aa-016d-5778-70e1-00000cb71058 
+on database directory memory:C:\Users\Shri\Downloads\Student_App\testdb with class loader sun.misc.Launcher$AppClassLoader@73d16e93 
+Loaded from file:/C:/Users/Shri/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_211-b12
+user.dir=C:\Users\Shri\Downloads\Student_App
+os.name=Windows 7
+os.arch=amd64
+os.version=6.1
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sun Sep 22 11:25:40 IST 2019:
+Shutting down instance 49e745aa-016d-5778-70e1-00000cb71058 on database directory memory:C:\Users\Shri\Downloads\Student_App\testdb with class loader sun.misc.Launcher$AppClassLoader@73d16e93 
+----------------------------------------------------------------
+Sun Sep 22 11:25:44 IST 2019:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance ceed865d-016d-5778-70e1-00000cb71058 
+on database directory memory:C:\Users\Shri\Downloads\Student_App\testdb with class loader sun.misc.Launcher$AppClassLoader@73d16e93 
+Loaded from file:/C:/Users/Shri/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_211-b12
+user.dir=C:\Users\Shri\Downloads\Student_App
+os.name=Windows 7
+os.arch=amd64
+os.version=6.1
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sun Sep 22 11:29:20 IST 2019:
+Shutting down instance ceed865d-016d-5778-70e1-00000cb71058 on database directory memory:C:\Users\Shri\Downloads\Student_App\testdb with class loader sun.misc.Launcher$AppClassLoader@73d16e93 
+----------------------------------------------------------------
+Sun Sep 22 11:29:23 IST 2019:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 333e0710-016d-5778-70e1-00000cb71058 
+on database directory memory:C:\Users\Shri\Downloads\Student_App\testdb with class loader sun.misc.Launcher$AppClassLoader@73d16e93 
+Loaded from file:/C:/Users/Shri/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_211-b12
+user.dir=C:\Users\Shri\Downloads\Student_App
+os.name=Windows 7
+os.arch=amd64
+os.version=6.1
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sun Sep 22 11:40:57 IST 2019:
+Shutting down instance 333e0710-016d-5778-70e1-00000cb71058 on database directory memory:C:\Users\Shri\Downloads\Student_App\testdb with class loader sun.misc.Launcher$AppClassLoader@73d16e93 
+New exception raised during cleanup null
+java.lang.NullPointerException
+	at org.apache.derby.impl.store.raw.log.LogToFile.flush(Unknown Source)
+	at org.apache.derby.impl.store.raw.log.LogToFile.flushAll(Unknown Source)
+	at org.apache.derby.impl.store.raw.log.FileLogger.flushAll(Unknown Source)
+	at org.apache.derby.impl.store.raw.xact.Xact.abort(Unknown Source)
+	at org.apache.derby.impl.store.raw.xact.XactContext.cleanupOnError(Unknown Source)
+	at org.apache.derby.iapi.services.context.ContextManager.cleanupOnError(Unknown Source)
+	at org.apache.derby.impl.services.daemon.BasicDaemon.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+Cleanup action completed
+----------------------------------------------------------------
+Sun Sep 22 11:41:01 IST 2019:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 26d8c7c3-016d-5778-70e1-00000cb71058 
+on database directory memory:C:\Users\Shri\Downloads\Student_App\testdb with class loader sun.misc.Launcher$AppClassLoader@73d16e93 
+Loaded from file:/C:/Users/Shri/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_211-b12
+user.dir=C:\Users\Shri\Downloads\Student_App
+os.name=Windows 7
+os.arch=amd64
+os.version=6.1
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sun Sep 22 11:58:45 IST 2019:
+Shutting down instance 26d8c7c3-016d-5778-70e1-00000cb71058 on database directory memory:C:\Users\Shri\Downloads\Student_App\testdb with class loader sun.misc.Launcher$AppClassLoader@73d16e93 
+New exception raised during cleanup null
+java.lang.NullPointerException
+	at org.apache.derby.impl.store.raw.log.LogToFile.flush(Unknown Source)
+	at org.apache.derby.impl.store.raw.log.LogToFile.flushAll(Unknown Source)
+	at org.apache.derby.impl.store.raw.log.FileLogger.flushAll(Unknown Source)
+	at org.apache.derby.impl.store.raw.xact.Xact.abort(Unknown Source)
+	at org.apache.derby.impl.store.raw.xact.XactContext.cleanupOnError(Unknown Source)
+	at org.apache.derby.iapi.services.context.ContextManager.cleanupOnError(Unknown Source)
+	at org.apache.derby.impl.services.daemon.BasicDaemon.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+Cleanup action completed
+----------------------------------------------------------------
+Sun Sep 22 11:58:48 IST 2019:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 59bdc876-016d-5778-70e1-00000cb71058 
+on database directory memory:C:\Users\Shri\Downloads\Student_App\testdb with class loader sun.misc.Launcher$AppClassLoader@73d16e93 
+Loaded from file:/C:/Users/Shri/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_211-b12
+user.dir=C:\Users\Shri\Downloads\Student_App
+os.name=Windows 7
+os.arch=amd64
+os.version=6.1
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sun Sep 22 12:00:24 IST 2019:
+Shutting down instance 59bdc876-016d-5778-70e1-00000cb71058 on database directory memory:C:\Users\Shri\Downloads\Student_App\testdb with class loader sun.misc.Launcher$AppClassLoader@73d16e93 
+----------------------------------------------------------------
+Sun Sep 22 12:00:27 IST 2019:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 7bed0929-016d-5778-70e1-00000cb71058 
+on database directory memory:C:\Users\Shri\Downloads\Student_App\testdb with class loader sun.misc.Launcher$AppClassLoader@73d16e93 
+Loaded from file:/C:/Users/Shri/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_211-b12
+user.dir=C:\Users\Shri\Downloads\Student_App
+os.name=Windows 7
+os.arch=amd64
+os.version=6.1
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
